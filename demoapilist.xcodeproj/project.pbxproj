@@ -18,6 +18,7 @@
 		A0E10FCB289A92BA000FB8FB /* demoapilistUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E10FCA289A92BA000FB8FB /* demoapilistUITests.swift */; };
 		A0E10FCD289A92BA000FB8FB /* demoapilistUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E10FCC289A92BA000FB8FB /* demoapilistUITestsLaunchTests.swift */; };
 		A0E10FDB289A94FC000FB8FB /* InfoModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E10FDA289A94FC000FB8FB /* InfoModal.swift */; };
+		A0E10FE0289B564A000FB8FB /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E10FDF289B564A000FB8FB /* ApiService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A0E10FCA289A92BA000FB8FB /* demoapilistUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoapilistUITests.swift; sourceTree = "<group>"; };
 		A0E10FCC289A92BA000FB8FB /* demoapilistUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoapilistUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A0E10FDA289A94FC000FB8FB /* InfoModal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoModal.swift; sourceTree = "<group>"; };
+		A0E10FDF289B564A000FB8FB /* ApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				A0E10FD9289A94EF000FB8FB /* Modal */,
 				A0E10FA6289A92B9000FB8FB /* AppDelegate.swift */,
 				A0E10FA8289A92B9000FB8FB /* SceneDelegate.swift */,
+				A0E10FDF289B564A000FB8FB /* ApiService.swift */,
 				A0E10FAC289A92B9000FB8FB /* Main.storyboard */,
 				A0E10FB2289A92BA000FB8FB /* Assets.xcassets */,
 				A0E10FB4289A92BA000FB8FB /* LaunchScreen.storyboard */,
@@ -298,6 +301,7 @@
 			files = (
 				A0E10FAB289A92B9000FB8FB /* ViewController.swift in Sources */,
 				A0E10FA7289A92B9000FB8FB /* AppDelegate.swift in Sources */,
+				A0E10FE0289B564A000FB8FB /* ApiService.swift in Sources */,
 				A0E10FA9289A92B9000FB8FB /* SceneDelegate.swift in Sources */,
 				A0E10FDB289A94FC000FB8FB /* InfoModal.swift in Sources */,
 				A0E10FB1289A92B9000FB8FB /* demoapilist.xcdatamodeld in Sources */,
