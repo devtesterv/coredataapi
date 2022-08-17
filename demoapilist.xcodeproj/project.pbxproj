@@ -107,7 +107,6 @@
 			children = (
 				A0E10FDE289A9580000FB8FB /* CoreData */,
 				A0E10FDD289A9527000FB8FB /* View */,
-				A0E10FDC289A9514000FB8FB /* ViewModal */,
 				A0E10FD9289A94EF000FB8FB /* Modal */,
 				A0E10FA6289A92B9000FB8FB /* AppDelegate.swift */,
 				A0E10FA8289A92B9000FB8FB /* SceneDelegate.swift */,
@@ -143,13 +142,6 @@
 				A0E10FDA289A94FC000FB8FB /* InfoModal.swift */,
 			);
 			path = Modal;
-			sourceTree = "<group>";
-		};
-		A0E10FDC289A9514000FB8FB /* ViewModal */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModal;
 			sourceTree = "<group>";
 		};
 		A0E10FDD289A9527000FB8FB /* View */ = {
